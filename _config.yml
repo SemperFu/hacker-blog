@@ -1,10 +1,9 @@
-title: Hacker-Blog
+title: Test
 description: "A Jekyll Blog Theme For Hackers"
 author:
-  name: "SomeHacker"
+  name: "SemperFu"
   email: "someone@somewebsite.somedomain"
-  url: "https://ashishchaudhary.in/hacker-blog"
-
+  url: "https://cdbbs.net"
 baseurl: /
 
 source: .
@@ -28,7 +27,7 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "SomeHacker"
+owner : "SemperFu"
 year : "2018"
 
 theme: jekyll-theme-hacker
